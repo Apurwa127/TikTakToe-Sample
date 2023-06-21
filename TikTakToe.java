@@ -32,7 +32,7 @@ public class TikTakToe {
                     input[6] == turn && input[4] == turn && input[2] == turn) {
 
                 System.out.println(turn + " is the winner");
-                System.out.println("This is a test");
+                System.out.println("This is a test for git");
                 break;
             }
 
