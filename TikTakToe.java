@@ -17,6 +17,7 @@ public class TikTakToe {
                 System.out.println("---*---*---");
                 System.out.println(input[0] + "  | " + input[1] + " | " + input[2]);
                 System.out.println("Please enter your choice from 1-9");
+                System.out.println("Ok");
                 value = scanner.nextInt();
 
              } while (input[value - 1] == 'X' || input[value - 1] == 'O');
